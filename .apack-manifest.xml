@@ -11,7 +11,7 @@
     <item>
      <GROUP_ID>sap.com</GROUP_ID>
      <ARTIFACT_ID>abap-platform-yy</ARTIFACT_ID>
-     <GIT_URL>https://github.com/SAP/abap-platform-yy.git</GIT_URL>
+     <GIT_URL>https://github.com/FHubert-fioneer/abap-platform-yy.git</GIT_URL>
     </item>
    </DEPENDENCIES>
   </DATA>
